@@ -2,6 +2,8 @@
 
 **Scalable authentication for developers. OAuth, login, profiles, 2FA, custom domains & more — all in one powerful, customizable platform.**
 
+We can host the service for you, or you can self host this service yourself, that is why we are open source!
+
 ---
 
 ## Overview
