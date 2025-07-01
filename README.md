@@ -93,11 +93,11 @@ By providing a modern, comprehensive authentication system, OAuthyia helps devel
 | **User Profile Merging**         | ✅                                            | ✅                                             | ✅                                            | ✅                            |
 | **Scope Editor**                 | ✅                                            | ✅                                             | ✅                                            | ✅                            |
 | **Custom Storage Provider**      | ✅ (Cloudflare R2 / S3 only)                   | ✅                                             | ✅                                            | ✅ (all providers supported)  |
-| **Custom SAML / SSO**            | ❌                                            | ❌                                             | 🔒 Coming Soon                                | ✅ (Advanced Config)          |
+| **Custom SAML / SSO**            | ❌                                            | ❌                                             | ✅                                             | ✅ (Advanced Config)          |
 | **Bring Your Own Domain (API)**  | ❌                                            | ✅                                             | ✅                                            | ✅                            |
 | **Bring Your Own Domain (CDN)**  | ❌                                            | ✅                                             | ✅                                            | ✅                            |
-| **Support Priority**             | Priority Support                             | Priority Support                                       | Priority Support                                      | Dedicated Manager             |
-| **Audit Logs, Webhooks, IP Logs**| ❌                                            | ❌                                             | 🔒 Premium Only                               | ✅                            |
+| **Support Priority**             | Priority Support                               | Priority Support                                 | Priority Support                        | Dedicated Manager             |
+| **Audit Logs, Webhooks, IP Logs**| ✅                                            | ✅                                             | ✅                                            | ✅                            |
 
 ---
 
