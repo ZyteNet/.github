@@ -83,19 +83,19 @@ By providing a modern, comprehensive authentication system, OAuthyia helps devel
 | **Monthly Price**                | $0/mo                                         | $10/mo                                         | $30/mo                                        | Custom Pricing                |
 | **User Slots**                   | 50,000                                        | 100,000                                        | 500,000                                       | 5,000,000+ (scalable)         |
 | **Monthly Request Limit**        | 400,000 + 150,000 buffer                      | 800,000 + 450,000 buffer                       | 2,000,000 + 1,000,000 buffer                  | Custom SLA / unlimited        |
-| **Overage Fee (if buffer is triggered)** | $6 flat (for extra 150k requests)           | $18 flat (for extra 450k requests)             | $40 flat (for extra 1M requests)              | Negotiated                    |
+| **Overage Fee (if buffer is triggered)** | $6 flat (for extra 150k requests)           | $18 flat (for extra 450k requests)             | $40 flat (for extra 1M requests)              | Unlimited                    |
 | **All Features Included**        | ✅                                            | ✅                                             | ✅                                            | ✅                            |
 | **Projects Per Account**         | 4                                             | 10                                             | 10                                            | 20+                           |
 | **Custom Domain (API/CDN)**      | ❌                                            | ✅                                             | ✅                                            | ✅                            |
 | **OAuth Provider Support**       | ✅                                            | ✅                                             | ✅                                            | ✅                            |
 | **User Profile Merging**         | ✅                                            | ✅                                             | ✅                                            | ✅                            |
 | **Scope Editor**                 | ✅                                            | ✅                                             | ✅                                            | ✅                            |
-| **Custom Storage Provider**      | ✅ (Cloudflare R2 / S3 only)                   | ✅                                             | ✅                                            | ✅ (all providers supported)  |
-| **Custom SAML / SSO**            | ❌                                            | ❌                                             | 🔒 Coming Soon                                | ✅ (Advanced Config)          |
+| **CDN** (You provide your own storage provider)      | ✅                   | ✅                                             | ✅                                            | ✅  |
+| **Custom SAML / SSO**            | ✅                                            | ✅                                             | ✅                                | ✅          |
 | **Bring Your Own Domain (API)**  | ❌                                            | ✅                                             | ✅                                            | ✅                            |
 | **Bring Your Own Domain (CDN)**  | ❌                                            | ✅                                             | ✅                                            | ✅                            |
 | **Support Priority**             | Priority Support                             | Priority Support                                       | Priority Support                                      | Dedicated Manager             |
-| **Audit Logs, Webhooks, IP Logs**| ❌                                            | ❌                                             | 🔒 Premium Only                               | ✅                            |
+| **Audit Logs, Webhooks, IP Logs**| ✅                                            | ✅                                             | ✅                               | ✅                            |
 
 ---
 
