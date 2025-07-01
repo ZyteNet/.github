@@ -1,4 +1,3 @@
-
 # ⚡ OAuthyia
 
 **Authentication that scales with your platform.**  
@@ -11,9 +10,9 @@ A developer-first auth system that brings OAuth, login, profiles, 2FA, custom do
 **OAuthyia** is a modern authentication platform built for developers, startups, and teams creating the next generation of digital products.
 
 We’re building an auth service that:
-- Offers **enterprise-grade features** from day one
-- Provides a **generous free tier** with seamless scalability
-- Supports **OAuth**, **2FA**, **custom domains**, **object storage**, and more
+- Offers **enterprise-grade features** from day one  
+- Provides a **generous free tier** with seamless scalability  
+- Supports **OAuth**, **2FA**, **custom domains**, **object storage**, and more  
 
 OAuthyia isn’t just another auth layer — it’s your brand’s **identity infrastructure.**
 
@@ -23,11 +22,11 @@ OAuthyia isn’t just another auth layer — it’s your brand’s **identity in
 
 Auth shouldn’t be a bottleneck — or a massive cost. OAuthyia changes that:
 
-- Modular, Node.js backend optimized for scaling
-- Clean, secure, and customizable APIs
-- Custom domain support for both API and CDN
-- Storage-agnostic: bring your own Cloudflare R2, AWS S3, and more
-- Powerful identity features like profile merging, scope editing, and SSO
+- Modular, Node.js backend optimized for scaling  
+- Clean, secure, and customizable APIs  
+- Custom domain support for both API and CDN  
+- Storage-agnostic: bring your own Cloudflare R2, AWS S3, and more  
+- Powerful identity features like profile merging, scope editing, and SSO  
 
 > **Even OAuthyia runs on OAuthyia.**  
 > Our own stack uses the same API platform we provide to developers.
@@ -104,11 +103,12 @@ POST   /v1/account/oauth/disconnect/:provider → Disconnect linked provider
 | **User Profile Merging**         | ✅                                            | ✅                                             | ✅                                            | ✅                            |
 | **Scope Editor**                 | ✅                                            | ✅                                             | ✅                                            | ✅                            |
 | **CDN** (You provide your own storage provider) | ✅                                    | ✅                                             | ✅                                            | ✅                            |
-| **Custom SAML / SSO**            | ✅                                            | ✅                                             | ✅                                            | ✅                            |
-| **Bring Your Own Domain (API)**  | ❌                                            | ✅                                             | ✅                                            | ✅                            |
-| **Bring Your Own Domain (CDN)**  | ❌                                            | ✅                                             | ✅                                            | ✅                            |
-| **Support Priority**             | Priority Support                              | Priority Support                               | Priority Support                               | Dedicated Manager             |
+| **Custom SAML / SSO**            | ❌                                            | ❌                                             | ✅                                            | ✅ (Advanced Config)          |
+| **Support Priority**             | General Support                               | General Support                                | Priority Support                              | Dedicated Manager             |
 | **Audit Logs, Webhooks, IP Logs**| ✅                                            | ✅                                             | ✅                                            | ✅                            |
+| **Dedicated Database**| ❌                                            | ❌                                             | ❌                                            | ✅ *(optional via dashboard)* |
+
+> 💼 *Enterprise devs have access to shared infrastructure by default but can optionally provision a dedicated isolated database server for their app via the dashboard. This creates a personal database (e.g. `coolapp-SERVER-B1`) for enhanced performance, isolation, and scalability.*
 
 ---
 
@@ -128,9 +128,8 @@ If your app surpasses the included monthly request limit, you have two handling 
 
 > **Flat Overage Pricing**:  
 > Charges are calculated at a rate of **$2 per 50,000 additional requests**.  
-> Each tier’s buffer is priced using this fixed conversion rate.
-
-> ⚠️ Fees may vary depending on your country and usage conditions.
+> Each tier’s buffer is priced using this fixed conversion rate.  
+> ⚠️ *Fees may vary depending on your country and usage conditions.*
 
 ---
 
