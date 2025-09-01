@@ -82,6 +82,9 @@
 **Price:** $0  
 - Access to all core ZyteNet products.  
 - Basic protection always on.  
+- **VPN:**  
+  - Connect to servers **within your country**  
+  - Standard speed priority  
 - **SentriAI:** ≈ 400 AI requests/month (links, files, Q&A).  
 
 ---
@@ -95,6 +98,11 @@
   - **Vault:** Unlimited passwords (vs 200 free)  
   - **Cloud:** 100 GB (vs 5 GB free)  
   - Priority support & early access to new features  
+- **VPN:**  
+  - Global server access (connect anywhere worldwide)  
+  - Higher speed priority  
+  - Streaming/content unlock toggle  
+  - Multi-hop routing for extra privacy  
 - **SentriAI:** ≈ 3,800 AI requests/month (links, files, Q&A + Enhanced Threat Analysis).  
 
 > **Note:** ZyteNet Monitor is always free. Plus upgrades enhance limits and advanced features.  
@@ -111,6 +119,13 @@
   - +500K requests → $1,000/month  
   - +2M requests → $3,500/month  
   - Unlimited (dedicated cluster) → Custom pricing  
+
+**VPN (Enterprise):**  
+- Global server access with enterprise routing  
+- Highest speed priority  
+- Streaming/content unlock (optional per policy)  
+- Multi-hop included  
+- Add-on: Dedicated servers/IP pools for compliance  
 
 **Add-Ons (Flat Annual Pricing):**  
 - Guardian Extra User Slot: $1.99/slot/year  
