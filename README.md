@@ -69,7 +69,7 @@
 - File collaboration and automatic backups  
 - Zero-knowledge architecture (even ZyteNet cannot access user files)  
 
-### 6. ZyteNet Browser (Extension)  
+### 6. ZyteNet Browser (Extension & Browser Planned)  
 - Privacy-focused, custom-built browser extension  
 - Integrated ZyteNet Shield features (phishing detection, antivirus, firewall)  
 - Ad/tracker blocking  
