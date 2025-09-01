@@ -1,6 +1,7 @@
 # ZyteNet (ZyteNet Security)  
 **Socials:** [@zytenet](https://twitter.com/zytenet) on all platforms  
 **Website:** [zytenet.com](https://zytenet.com)  
+**Get Started (Pricing):** [zytenet.com/pricing](https://zytenet.com/pricing)
 
 ---
 
