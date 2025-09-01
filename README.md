@@ -11,8 +11,12 @@
 - Central global account system for all ZyteNet products.  
 - Access: [account.zytenet.com](https://account.zytenet.com)  
 
+---
+
 ### 2. ZyteNet API  
 - Provides backend integration for account system and other ZyteNet products.  
+
+---
 
 ### 3. ZyteNet Shield (Suit of Features)
 - **Antivirus**  
@@ -59,15 +63,21 @@
     - 100,000 AI requests/month pooled across org  
     - Scales with optional add-on AI packs  
 
+---
+
 ### 4. ZyteNet Vault  
 - Password manager with biometric and passkey support  
 - Secure password sharing  
 - Built-in authenticator for 2FA  
 
+---
+
 ### 5. ZyteNet Cloud  
 - End-to-end encrypted file storage and sync  
 - File collaboration and automatic backups  
 - Zero-knowledge architecture (even ZyteNet cannot access user files)  
+
+---
 
 ### 6. ZyteNet Browser (Extension & Browser Planned)  
 - Privacy-focused, custom-built browser extension  
