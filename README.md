@@ -117,10 +117,10 @@
 **SentriAI (Enterprise AI):**  
 - 100,000 AI requests/month pooled across all devices.  
 - Scales with optional **AI Packs**:  
-  - +100K requests → $250/month  
-  - +500K requests → $1,000/month  
-  - +2M requests → $3,500/month  
-  - Unlimited (dedicated cluster) → Custom pricing  
+  - +100K requests: $250/month  
+  - +500K requests: $1,000/month  
+  - +2M requests: $3,500/month  
+  - Unlimited (dedicated cluster): Custom pricing  
 
 **VPN (Enterprise):**  
 - Global server access with enterprise routing  
