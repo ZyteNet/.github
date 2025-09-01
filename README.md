@@ -19,6 +19,7 @@
   - Instant device rollbacks after detection  
   - Behavior-based threat detection (AI + heuristics)  
   - Automatic cleaning and quarantine  
+  - Signature detection as fall backs
 
 - **VPN**  
   - No-log encrypted tunnels  
