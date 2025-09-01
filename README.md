@@ -14,7 +14,7 @@
 ### 2. ZyteNet API  
 - Provides backend integration for account system and other ZyteNet products.  
 
-### 3. ZyteNet Shield  
+### 3. ZyteNet Shield (Suit of Features)
 - **Antivirus**  
   - Real-time malware and virus protection  
   - Instant device rollbacks after detection  
