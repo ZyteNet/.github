@@ -84,7 +84,12 @@
 - Integrated ZyteNet Shield features (phishing detection, antivirus, firewall)  
 - Ad/tracker blocking  
 - ZyteNet VPN integration for seamless access  
-- Controls products directly from browser extension  
+- Controls products directly from browser extension
+
+---
+
+### 7. ZyteNet Pay (Payment Processor)
+Currently being planned, please await features and info...
 
 ---
 
