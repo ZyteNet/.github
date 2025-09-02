@@ -11,6 +11,15 @@
 - Central global account system for all ZyteNet products.  
 - Access: [account.zytenet.com](https://account.zytenet.com)  
 
+**Required Account Data**
+- Display Name
+- @Username
+- UUID (Unqiue User Identification)
+- Email (Connected External Email)
+- Phone Number (Carrier-validated phone numbers)
+- Password
+- Billing Information (Encrypted) (Debit/Credit or Bank)
+
 ---
 
 ### 2. ZyteNet API  
