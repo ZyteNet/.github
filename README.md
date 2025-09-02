@@ -94,7 +94,7 @@ A secure, private, and censorship-resistant payment processor for merchants and 
 #### Wallet System  
 - Add funding sources (bank account, debit/credit cards) 
 - Virtual card support for anonymous purchases
-- End-to-end encrypted — ZyteNet cannot see balances or spending history
+- End-to-end encrypted, ZyteNet cannot see balances or spending history
 
 #### Merchant Payments  
 - Seamless **“Pay with ZyteNet Pay”** checkout button
