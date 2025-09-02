@@ -118,7 +118,12 @@ A secure, private, and censorship-resistant payment processor for merchants and 
 
 ---
 
-### 8. SentriAI (AI Security Assistant)
+### 8. ZyteNet Mail
+Info coming soon...
+
+---
+
+### 9. SentriAI (AI Security Assistant)
 ZyteNet's AI Model and Assistant.
 
 #### Features
