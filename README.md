@@ -88,8 +88,41 @@
 
 ---
 
-### 7. ZyteNet Pay (Payment Processor)
-Currently being planned, please await features and info...
+### 7. ZyteNet Pay (Payment Processor & Wallet)  
+A secure, private, and censorship-resistant payment processor for merchants and users.  
+
+#### Wallet System  
+- Add funding sources (bank account, debit/credit cards) 
+- Virtual card support for anonymous purchases
+- End-to-end encrypted — ZyteNet cannot see balances or spending history
+
+#### Merchant Payments  
+- Seamless **“Pay with ZyteNet Pay”** checkout button
+- Instant confirmation flow for users via secure GUI
+- Merchant dashboard with **earnings breakdown**:  
+  - Net Total  
+  - Processing Fee
+  - Service Fee
+  - Total Fee
+  - Final Payout  
+
+#### Fraud & Risk Engine (Powered by SentriAI)  
+- Real-time anomaly and fraud detection
+- Dispute handling, chargebacks, and reimbursement flows
+- Protects both users and merchants from scams
+
+#### Fees  
+| Fee Type        | Rate                  |  
+|-----------------|-----------------------|  
+| Processing Fee  | 2.9% + $0.30          |  
+| Service Fee     | 1%                    |  
+| **Total Fees**  | **3.9% + $0.30**      |  
+
+#### Key Value  
+- No merchant censorship, merchants can operate freely
+- Transparent fee structure
+- In-house integration with ZyteNet products (ZyteNet itself uses ZyteNet Pay)
+- Scales like Stripe, protects like PayPal, but with **freedom-first principles**
 
 ---
 
