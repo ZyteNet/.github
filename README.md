@@ -142,7 +142,8 @@ A secure, private, and censorship-resistant payment processor for merchants and 
 ### 1. ZyteNet Free  
 **Price:** $0  
 - Access to all core ZyteNet products.  
-- Basic protection always on.  
+- Basic protection always on.
+- Standard Customer Support
 - **VPN:**  
   - Connect to servers **within your country**  
   - Standard speed priority  
@@ -154,6 +155,7 @@ A secure, private, and censorship-resistant payment processor for merchants and 
 **Price:** $10/month (10% off annually)  
 **Benefits:**  
 - Cross-product premium subscription  
+- Priority Customer Support
 - Higher limits & advanced features:  
   - **Guardian:** 20 kid slots (vs 5 free)  
   - **Vault:** Unlimited passwords (vs 200 free)  
