@@ -160,7 +160,7 @@ A secure, private, and censorship-resistant payment processor for merchants and 
   - **Guardian:** 20 kid slots (vs 5 free)  
   - **Vault:** Unlimited passwords (vs 200 free)  
   - **Cloud:** 100 GB (vs 5 GB free)  
-  - Priority support & early access to new features  
+  - Early access to new features  
 - **VPN:**  
   - Global server access (connect anywhere worldwide)  
   - Higher speed priority  
