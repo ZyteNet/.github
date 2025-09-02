@@ -55,25 +55,6 @@
   - Integrated with Antivirus & Guardian  
   - Smart rules that adapt to attacks in real time  
 
-- **SentriAI (AI Security Assistant)**  
-  - **Link & File Analysis**: Detects phishing, malware, and suspicious activity in URLs and files.  
-  - **Security Q&A**: AI-powered chatbot for real-time security guidance.  
-  - **Enhanced Threat Analysis (Plus & Sentinel only)**: Deep analysis of advanced attacks and exploits.  
-  - **Free Users:**  
-    - 5 suspicious link scans/day (~150 per month)  
-    - 5 file scans/day (~150 per month)  
-    - 3–4 Security Q&A’s/day (~100 per month)  
-    - ≈ 400 total AI requests/month  
-  - **Plus Users:**  
-    - 50 suspicious link scans/day (~1,500 per month)  
-    - 50 file scans/day (~1,500 per month)  
-    - 25–30 Security Q&A’s/day (~800 per month)  
-    - Enhanced Threat Analysis unlocked  
-    - ≈ 3,800 total AI requests/month  
-  - **Sentinel (Enterprise):**  
-    - 100,000 AI requests/month pooled across org  
-    - Scales with optional add-on AI packs  
-
 ---
 
 ### 4. ZyteNet Vault  
@@ -134,6 +115,32 @@ A secure, private, and censorship-resistant payment processor for merchants and 
 - Transparent fee structure
 - In-house integration with ZyteNet products (ZyteNet itself uses ZyteNet Pay)
 - Scales like Stripe, protects like PayPal, but with **freedom-first principles**
+
+---
+
+### 8. SentriAI (AI Security Assistant)
+ZyteNet's AI Model and Assistant.
+
+#### Features
+- **Link & File Analysis**: Detects phishing, malware, and suspicious activity in URLs and files.  
+- **Security Q&A**: AI-powered chatbot for real-time security guidance.  
+- **Enhanced Threat Analysis (Plus & Sentinel only)**: Deep analysis of advanced attacks and exploits.  
+
+**Free Users:** 
+- 5 suspicious link scans/day (~150 per month)  
+- 5 file scans/day (~150 per month)  
+- 3–4 Security Q&A’s/day (~100 per month)  
+- ≈ 400 total AI requests/month  
+**Plus Users:**  
+- 50 suspicious link scans/day (~1,500 per month)  
+- 50 file scans/day (~1,500 per month)  
+- 25–30 Security Q&A’s/day (~800 per month)  
+- Enhanced Threat Analysis unlocked  
+- ≈ 3,800 total AI requests/month  
+**Sentinel (Enterprise):**  
+- 100,000 AI requests/month pooled across org  
+- Scales with optional add-on AI packs  
+
 
 ---
 
