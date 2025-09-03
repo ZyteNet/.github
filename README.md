@@ -25,11 +25,17 @@
 ---
 
 ### 2. ZyteNet API  
+- Access: api.zytenet.com/v1
 - Provides backend integration for account system and other ZyteNet products.  
 
 ---
 
 ### 3. ZyteNet Shield (Suit of Features)
+ZyteNet Shield is a all in one application that helps you stay protected on your devices and online.
+
+- Website: shield.zytenet.com
+- Access (Monitor Feature): shield.zytenet.com/app
+
 - **Antivirus**  
   - Real-time malware and virus protection  
   - Instant device rollbacks after detection  
@@ -58,6 +64,10 @@
 ---
 
 ### 4. ZyteNet Vault  
+
+- Website: vault.zytenet.com
+- Access: vault.zytenet.com/app
+
 - Password manager with biometric and passkey support  
 - Secure password sharing  
 - Built-in authenticator for 2FA  
