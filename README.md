@@ -30,7 +30,7 @@ Access: api.zytenet.com/v1
 
 ---
 
-### 3. ZyteNet Shield (Suit of Features)
+### 3. ZyteNet Shield (Suite of Features)
 ZyteNet Shield is a all in one application that helps you stay protected on your devices and online.
 
 Website: shield.zytenet.com
